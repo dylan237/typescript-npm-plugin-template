@@ -262,7 +262,7 @@ yarn add -D lint-staged
 }
 ```
 
-配置 `lint-staged.js`。
+配置 `lint-staged.config.js`。
 可以看到我們甚至可以指定路徑及檔案格式
 
 ```js
