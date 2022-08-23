@@ -104,6 +104,8 @@ npm install -D husky
 yarn add -D husky
 ```
 
+> 如果都沒辦法可以試著安裝舊版的husky `yarn add huskey@4.3.8`。
+
 ## commitizen：建立 commit message
 
 commitizen 可以你快速生成符合規範的 commit，透過 CLI 問答交互的方式完成你的 commit message 提交。
